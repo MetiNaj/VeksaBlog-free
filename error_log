@@ -1,0 +1,33 @@
+[01-Jul-2025 21:02:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:02:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:03:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:04:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:05:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:07:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:07:16 UTC] PHP Notice:  Undefined index: video_url in /home/veksair/public_html/admin.php on line 34
+[01-Jul-2025 21:07:16 UTC] PHP Notice:  Undefined variable: error in /home/veksair/public_html/admin.php on line 51
+[01-Jul-2025 21:07:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:08:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:08:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:13:54 UTC] PHP Notice:  Undefined index: video_url in /home/veksair/public_html/admin.php on line 34
+[01-Jul-2025 21:13:54 UTC] PHP Notice:  Undefined variable: error in /home/veksair/public_html/admin.php on line 51
+[01-Jul-2025 21:14:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:18:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:19:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:20:19 UTC] PHP Notice:  Undefined variable: error in /home/veksair/public_html/admin.php on line 51
+[01-Jul-2025 21:20:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veksair/public_html/index.php on line 274
+[01-Jul-2025 21:38:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: user_name in /home/veksair/public_html/index.php:11
+Stack trace:
+#0 /home/veksair/public_html/index.php(11): PDO->prepare('SELECT comment,...')
+#1 {main}
+  thrown in /home/veksair/public_html/index.php on line 11
+[01-Jul-2025 21:38:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: user_name in /home/veksair/public_html/index.php:11
+Stack trace:
+#0 /home/veksair/public_html/index.php(11): PDO->prepare('SELECT comment,...')
+#1 {main}
+  thrown in /home/veksair/public_html/index.php on line 11
+[01-Jul-2025 21:39:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: user_name in /home/veksair/public_html/admin.php:155
+Stack trace:
+#0 /home/veksair/public_html/admin.php(155): PDO->prepare('SELECT comment,...')
+#1 {main}
+  thrown in /home/veksair/public_html/admin.php on line 155
